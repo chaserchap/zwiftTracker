@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'rides.apps.RidesConfig',
     'accounts.apps.AccountsConfig',
     'crispy_forms',
+    'django_tables2',
 ]
 
 MIDDLEWARE = [

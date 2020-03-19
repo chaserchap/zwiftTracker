@@ -1,8 +1,11 @@
 from django.shortcuts import render
-from .models import Route
+from django_tables2 import SingleTableView
 from django.contrib.auth.models import User
 
+from .models import Route
+from .tables import RouteTable
+
 # Create your views here.
-def route_list(request):
-	routes = Route.objects.order_by('difficulty')
-	return render(request, 'rides/route_list.html', {'routes': routes})
+class RouteListView(SingleTableView):
+	model = Route
+	table_class = RouteTable
