@@ -53,47 +53,47 @@
 52,Queen's Highway,Yorkshire,3.0,37,1.0,60,False,0
 53,Royal Pump Room 8,Yorkshire,27.2,480,11.62,550,False,0
 54,Tour of Tewit Well,Yorkshire,10.4,200,5.06,210,False,0
-55,Time Trial Lap,Bologna,8.0,230,5.88,0,True,0
-56,Bell Lap,Crit City,1.9,8,0.49,0,True,0
-57,Downtown Dolphin,Crit City,1.9,8,0.49,0,True,0
-58,Innsbruck KOM After Party,Innsbruck,37.2,640,15.91,0,True,0
-59,Classique Reverse,London,5.4,19,1.3,0,True,0
-60,Keith Hill After Party,London,36.2,407,12.54,0,True,0
-61,Leith Hill After Party,London,46.1,411,13.43,0,True,0
-62,London Loop with Box Hill Finish,London,39.0,625,15.71,0,True,0
-63,Greater London Loop Reverse,London,21.0,255,,0,True,0
-64,Gotham Grind,New York,9.2,86,2.79,0,True,0
-65,Gotham Grind Reverse,New York,9.2,86,2.76,0,True,0
-66,Grand Central Circuit Reverse,New York,6.8,137,3.62,0,True,0
-67,LaGuardia Loop Reverse,New York,2.8,23,0.81,0,True,0
-68,LaGuardia Loop,New York,2.8,23,0.8,0,True,0
-69,NYC KOM After Party,New York,37.0,440,12.97,0,True,0
-70,Park Perimeter Loop Reverse,New York,9.7,120,3.36,0,True,0
-71,The 6 Train Reverse,New York,6.4,61,1.95,0,True,0
-72,The Highline Reverse,New York,10.5,175,4.66,0,True,0
-73,Richmond UCI Reverse,Richmond,16.3,157,5.1,0,True,0
-74,Cobbled Climbs Reverse,Richmond,9.2,132,3.52,0,True,0
-75,Libby Hill After Party,Richmond,32.9,118,7.99,0,True,0
-76,Richmond Rollercoaster,Richmond,5.0,19,1.14,0,True,0
-77,Bambino Fondo,Watopia,52.1,553,16.65,0,True,0
-78,Gran Fondo,Watopia,97.2,1148,33.02,0,True,0
-79,The Magnificent 8,Watopia,28.6,131,7.23,0,True,0
-80,Medio Fondo,Watopia,72.6,981,26.17,0,True,0
-81,Seaside Sprint,Watopia,6.3,39,1.66,0,True,0
-82,Volcano Climb After Party,Watopia,40.0,266,10.81,0,True,0
-83,Watopia's Waistband,Watopia,25.5,83,5.85,0,True,0
-84,Big Loop Reverse,Watopia,42.6,662,,0,True,0
-85,Flat Route Reverse,Watopia,10.3,61,,0,True,0
-86,Greatest London Loop Reverse,Watopia,25.7,355,,0,True,0
-87,Hilly Route Reverse,Watopia,9.2,109,,0,True,0
-88,Jungle Circuit Reverse,Watopia,7.9,83,,0,True,0
-89,London 8 Reverse,Watopia,20.3,256,,0,True,0
-90,London Loop Reverse,Watopia,14.8,230,,0,True,0
-91,Road To Ruins Reverse,Watopia,29.6,275,,0,True,0
-92,Three Sisters Reverse,Watopia,45.7,883,,0,True,0
-93,Volcano Flat Reverse,Watopia,12.3,50,,0,True,0
-94,WBR Climbing Series,Watopia,43.3,1117,,0,True,0
-95,Harrogate Circuit Reverse,Yorkshire,13.8,240,6.12,0,True,0
+55,Time Trial Lap,Bologna,8.0,230,5.88,0,1,0
+56,Bell Lap,Crit City,1.9,8,0.49,0,1,0
+57,Downtown Dolphin,Crit City,1.9,8,0.49,0,1,0
+58,Innsbruck KOM After Party,Innsbruck,37.2,640,15.91,0,1,0
+59,Classique Reverse,London,5.4,19,1.3,0,1,0
+60,Keith Hill After Party,London,36.2,407,12.54,0,1,0
+61,Leith Hill After Party,London,46.1,411,13.43,0,1,0
+62,London Loop with Box Hill Finish,London,39.0,625,15.71,0,1,0
+63,Greater London Loop Reverse,London,21.0,255,,0,1,0
+64,Gotham Grind,New York,9.2,86,2.79,0,1,0
+65,Gotham Grind Reverse,New York,9.2,86,2.76,0,1,0
+66,Grand Central Circuit Reverse,New York,6.8,137,3.62,0,1,0
+67,LaGuardia Loop Reverse,New York,2.8,23,0.81,0,1,0
+68,LaGuardia Loop,New York,2.8,23,0.8,0,1,0
+69,NYC KOM After Party,New York,37.0,440,12.97,0,1,0
+70,Park Perimeter Loop Reverse,New York,9.7,120,3.36,0,1,0
+71,The 6 Train Reverse,New York,6.4,61,1.95,0,1,0
+72,The Highline Reverse,New York,10.5,175,4.66,0,1,0
+73,Richmond UCI Reverse,Richmond,16.3,157,5.1,0,1,0
+74,Cobbled Climbs Reverse,Richmond,9.2,132,3.52,0,1,0
+75,Libby Hill After Party,Richmond,32.9,118,7.99,0,1,0
+76,Richmond Rollercoaster,Richmond,5.0,19,1.14,0,1,0
+77,Bambino Fondo,Watopia,52.1,553,16.65,0,1,0
+78,Gran Fondo,Watopia,97.2,1148,33.02,0,1,0
+79,The Magnificent 8,Watopia,28.6,131,7.23,0,1,0
+80,Medio Fondo,Watopia,72.6,981,26.17,0,1,0
+81,Seaside Sprint,Watopia,6.3,39,1.66,0,1,0
+82,Volcano Climb After Party,Watopia,40.0,266,10.81,0,1,0
+83,Watopia's Waistband,Watopia,25.5,83,5.85,0,1,0
+84,Big Loop Reverse,Watopia,42.6,662,,0,1,0
+85,Flat Route Reverse,Watopia,10.3,61,,0,1,0
+86,Greatest London Loop Reverse,Watopia,25.7,355,,0,1,0
+87,Hilly Route Reverse,Watopia,9.2,109,,0,1,0
+88,Jungle Circuit Reverse,Watopia,7.9,83,,0,1,0
+89,London 8 Reverse,Watopia,20.3,256,,0,1,0
+90,London Loop Reverse,Watopia,14.8,230,,0,1,0
+91,Road To Ruins Reverse,Watopia,29.6,275,,0,1,0
+92,Three Sisters Reverse,Watopia,45.7,883,,0,1,0
+93,Volcano Flat Reverse,Watopia,12.3,50,,0,1,0
+94,WBR Climbing Series,Watopia,43.3,1117,,0,1,0
+95,Harrogate Circuit Reverse,Yorkshire,13.8,240,6.12,0,1,0
 96,Big Loop,Watopia,42.4,651,16.48,840,False,10
 97,Bigger Loop,Watopia,53.1,678,18.72,1060,False,10
 98,Jungle Circuit,Watopia,7.9,79,2.38,260,False,10
