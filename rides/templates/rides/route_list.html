@@ -1,13 +1,33 @@
 {% extends 'rides/base.html' %}
 
 {% block content %}
-	<div class=route>
-        <p>This is ugly!</p>
-        <p>But it works!</p>
-        <p>{% for route in routes %}
-        	<div>
-        	{{ route.name }}
-        	</div>
-        {% endfor %}</p>
+	<div class="route">
+		Current Route List
+		<table class="table table-sm">
+			<thead>
+				<tr>
+					<th scope="col">Route Title</th>
+					<th scope="col">World</th>
+					<th scope="col">Length (km)</th>
+					<th scope="col">Elevation (m)</th>
+					<th scope="col">Difficulty</th>
+					<th scope="col">Badge XP</th>
+					<th scope="col">Notes</th>
+				</tr>
+			</thead>
+			<tbody>
+				{% for route in routes %}
+				{% if route.event == True %}<tr class="table-info">{% else %}<tr>{% endif %}
+					<td>{{ route.name }}</td>
+					<td>{{ route.world }}</td>
+					<td>{{ route.length }}</td>
+					<td>{{ route.elevation }}</td>
+					<td>{{ route.difficulty }}</td>
+					<td>{{ route.badgeXP }}</td>
+					<td>{% if route.min_level > 0 %}Level {{ route.min_level }}+{% endif %}</td>
+				</tr>
+				{% endfor %}
+			</tbody>
+		</table>
     </div>
 {% endblock %}
