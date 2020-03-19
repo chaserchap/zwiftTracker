@@ -7,5 +7,5 @@ class RouteTable(tables.Table):
         template_name = "django_tables2/bootstrap.html"
         fields = ("name", "world", "length", "elevation", "difficulty", "badgeXP")
         row_attrs = {
-          "event_only": lambda route: "true" if route.event else "false"
+          "event-only": lambda record: "true" if record.event else "false"
         }
