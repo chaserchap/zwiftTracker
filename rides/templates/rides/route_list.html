@@ -1,14 +1,13 @@
-<html>
-    <head>
-        <title>zwiftTracker</title>
-    </head>
-    <body>
+{% extends 'rides/base.html' %}
+
+{% block content %}
+	<div class=route>
         <p>This is ugly!</p>
         <p>But it works!</p>
         <p>{% for route in routes %}
         	<div>
         	{{ route.name }}
-        </div>
+        	</div>
         {% endfor %}</p>
-    </body>
-</html>
+    </div>
+{% endblock %}
